@@ -1,5 +1,0 @@
-2019/06/17 08:34:19.374 [E] [init.go:128]  ping redis failed, err:read tcp 127.0.0.1:56296->127.0.0.1:6379: wsarecv: An existing connection was forcibly closed by the remote host.
-2019/06/17 08:34:20.250 [E] [init.go:20]  init black redis failed, err:read tcp 127.0.0.1:56296->127.0.0.1:6379: wsarecv: An existing connection was forcibly closed by the remote host.
-2019/06/17 08:34:20.277 [E] [init.go:140]  load black list err:read tcp 127.0.0.1:56296->127.0.0.1:6379: wsarecv: An existing connection was forcibly closed by the remote host.
-2019/06/17 08:34:20.310 [I] [main.go:17]  init sec succ
-2019/06/17 08:34:21.945 [D] [asm_amd64.s:1337]  begin watch key:/zzh/backend/seckill/product
